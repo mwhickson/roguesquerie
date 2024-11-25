@@ -1,0 +1,30 @@
+[project]
+name = "roguesquerie"
+version = "2024-11-24.6147baed9d02462989c1d8cc65b87af5-alpha"
+description = "A Rogue-like game."
+requires-python = ">=3.12"
+readme = "README.md"
+license = "MIT"
+keywords = [
+    "game",
+    "rogue-like"
+]
+authors = [
+    { name = "Matthew Hickson" }
+]
+classifiers = [
+    "Development Status :: 2 - Pre-Alpha",
+    "Intended Audience :: End Users/Desktop",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python",
+    "Topic :: Games/Entertainment",
+    "Topic :: Games/Entertainment :: Role-Playing"
+]
+dependencies = [
+    "pygame>=2.6.1"
+]
+
+[project.urls]
+Documentation = "https://github.com/mwhickson/roguesquerie#readme"
+Issues = "https://github.com/mwhickson/roguesquerie/issues"
+Source = "https://github.com/mwhickson/roguesquerie"
