@@ -32,10 +32,13 @@ Roguesquerie is a rogue-like computer game.
 
 ## Reference
 
+### Selected RPG System
+
+- Mongoose Publishing's [Traveller SRD](https://www.traveller-srd.com/)
+
 ### Existing RPG Systems
 
 - Free League Publishing's [Year Zero Engine SRD](https://freeleaguepublishing.com/wp-content/uploads/2023/11/YZE-Standard-Reference-Document.pdf)
-- Mongoose Publishing's [Traveller SRD](https://www.traveller-srd.com/)
 - The OpenD6 Project's [FreeD6 Engine](https://opend6project.org/freed6/)
 - [Orcus](https://github.com/Sanglorian/orcus) - D&D Fourth Edition Retroclone
 - Chaosium's [Basic Roleplaying Universal Game Engine](https://brpugesrd.xyz./#/)
