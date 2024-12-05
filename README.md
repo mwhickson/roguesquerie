@@ -12,6 +12,18 @@ And [Matt Colville streaming NetHack](https://www.twitch.tv/matthew_colville)...
 
 And... this blog post recently featured on HackerNews details [The Story of Rogue](https://spillhistorie.no/the-story-of-rogue/)...
 
+### Why Traveller?
+
+Why start with Traveller as a base for the mechanics?
+
+It's a simple system, with an open [System Reference Document](https://www.traveller-srd.com/) provided by Mongoose Publishing.
+
+Also, lifepaths...
+
+See Mark Munson's [Mongoose 2nd Edition Character Generator](https://munsondevelopment.com/) for the potential fun in character building.
+
+Mark Munson also has other [Traveller resources](https://www.munsondev.com/chargen/).
+
 ## Features
 
 See the [specification document](docs/design/specification.md).
