@@ -1,0 +1,18 @@
+Code,Name,Type
+Minor_Movement,Movement,Minor
+Minor_ChangingStance,"Changing Stance",Minor
+Minor_DrawingAndReloading,"Drawing and Reloading",Minor
+Minor_Aiming,Aiming,Minor
+Minor_Miscellaneous,Miscellaneous,Minor
+Significant_Minor,"Two Minor Actions",Significant
+Significant_Miscellaneous,Miscellaneous,Significant
+Significant_Attack,Attack,Significant
+Significant_Attack_Melee,"Attack (Melee)",Significant
+Significant_Attack_Shooting,"Attack (Shooting)",Significant
+Significant_Attack_Thrown,"Attack (Thrown)",Significant
+Significant_RecoilAndHeft,"Recoil and Heft",Significant
+Reaction_Dodging,Dodging,Reaction
+Reaction_Parrying,Parrying,Reaction
+FreeAction,"Free Action",Free
+ExtendedAction,"Extended Action",Extended
+Delay,Delay,Delay

@@ -1,0 +1,7 @@
+MinDegree,MaxDegree,Code,Name
+-6,-99,Failure_Exceptional,"Exceptional Failure"
+-2,-5,Failure_Average,"Average Failure"
+-1,-1,Failure_Marginal,"Marginal Failure"
+0,0,Success_Marginal,"Marginal Success"
+1,5,Success_Average,"Average Success"
+6,99,Success_Exceptional,"Exceptional Success"
