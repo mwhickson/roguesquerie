@@ -24,6 +24,8 @@ See Mark Munson's [Mongoose 2nd Edition Character Generator](https://munsondevel
 
 Mark Munson also has other [Traveller resources](https://www.munsondev.com/chargen/).
 
+For an actual play example of Traveller in action, see [Voyagers of the Jump](https://www.glasscannonnetwork.com/shows/voyagers-of-the-jump) from Glass Cannon Network.
+
 ## Features
 
 See the [specification document](docs/design/specification.md).
